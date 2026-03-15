@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">TeaWithSugar</h1>
 
-<!--
-**YanderuxTea/YanderuxTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=postgres,docker,git,prisma)
+</div>
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=figma,webstorm,vscode)
+</div>
