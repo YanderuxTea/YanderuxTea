@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YanderuxTea&show_icons=true&theme=nightowl&locale=ru)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YanderuxTea&show_icons=true&theme=nightowl&locale=ru)
 </div>
 
 <h2 align="center">Обо мне</h2>
